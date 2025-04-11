@@ -12,14 +12,14 @@ This project aims to predict the **3D coordinates of protein structures** from a
 - **End-to-End Deep Learning Pipeline**: Built a PyTorch-based sequence-to-structure model capable of learning and predicting protein backbone atom coordinates (CA atoms).
 - **Evaluation & Visualization**:
   - Calculated **RMSD (Root Mean Square Deviation)** between true and predicted structures.
-  - Visualized predicted vs. true 3D structures using both `matplotlib` and `py3Dmol`.
+  - Visualized predicted vs. true 3D structures using both `py3Dmol`.
 
 ---
 
 ## Tools and Technologies
 
 - **Programming Language**: Python  
-- **Frameworks**: PyTorch, NumPy, Pandas, Matplotlib, Py3Dmol  
+- **Frameworks**: PyTorch, NumPy, Pandas, Py3Dmol  
 - **Data Source**: PDB (Protein Data Bank)  
 - **Others**: Biopython for structure parsing
 
