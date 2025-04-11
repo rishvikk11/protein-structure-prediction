@@ -19,7 +19,7 @@ This project aims to predict the **3D coordinates of protein structures** from a
 ## Tools and Technologies
 
 - **Programming Language**: Python  
-- **Frameworks**: PyTorch, NumPy, Pandas, Py3Dmol  
+- **Frameworks/Libraries**: PyTorch, NumPy, Pandas, Pickle, Py3Dmol  
 - **Data Source**: PDB (Protein Data Bank)  
 - **Others**: Biopython for structure parsing
 
